@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Pilates",
+        "price": 700,
+        "time": 6,
+        "discription": "Pilates is a form of low-impact exercise that aims to strengthen muscles while improving postural alignment and flexibility. ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kvb-dGBVkP3rR9dP6Cqc0h8AyZuqBBXceg&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Abs",
+        "price": 200,
+        "time": 6,
+        "discription": "If you’re looking to train your abs, the good news is that there are a huge variety of exercises that will help you achieve that goal.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sebfDBCBA8Ca8KWH4NsHTO-owrJ8mxZfhA&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Cardio",
+        "price": 800,
+        "time": 6,
+        "discription": "If you’re like most guys, you do cardio to help you stay lean and show off the muscle gains you get from hitting the weights, aka “the usual workout routine.”",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCSMkfn9ANJg6d4QgcfzZxVwt7098OTmCQw&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Push Up",
+        "price": 500,
+        "time": 3,
+        "discription": "Push-ups are a classic move. Even if you mostly smash cardio workouts at the gym, chances are you’ve tried HIIT training at some point where this tried and true bodyweight resistance exercise has come up.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4i04hYi9f8qhL_KRHF_mpm9LO5MIFcSEqA&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Battle Ropes",
+        "price": 100,
+        "time": 6,
+        "discription": "Ropes aren't just for sailing and and Boy Scouts. Battle ropes (or battling ropes) are a must-have tool for anyone looking to pack on lean mass.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQW-UQnWgTM4GENe6fKLJWmAfP9xKvJlT_Q&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Pull-up Bar ",
+        "price": 300,
+        "time": 5,
+        "discription": "There are few more comprehensive upper body exercises than the pullup and chinup. No matter which of the pair you choose to do, you’ll work your lats, biceps, rhomboids, rear deltoids",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoAqatDq46JJO5s7x8I-E_GsZBDmnK4w22Sw&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "name": "Bench Press ",
+        "price": 500,
+        "time": 3,
+        "discription": "The bench press, or chest press, is an upper-body weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. The exercise uses the pectoralis major, the anterior deltoids",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzWEwMtYZ9zmiedW7VbuiAwh2Mp66VYl-7A&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "name": "Dumbbells",
+        "price": 100,
+        "time": 1,
+        "discription": "Dumbbells can be made using several different types of material including rubber, neoprene or metal. Rubber and neoprene are softer and less prone to damaging floors",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzoF4BirwIRI5Wwqc04pN239Cld_OGlOPvnQ&usqp=CAU"
+    },
+    {
+        "id": 9,
+        "name": "Reverse hyper",
+        "price": 200,
+        "time": 2,
+        "discription": "The front-to-back mitter has a place in many tunnels. The challenge for some, is finding a good place for the mitter. Enter the Quad Wave Mitter™, which delivers a full-sized clean in just seven feet of tunnel space.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbz1fpbLBx4hhDPDJ2502SJtxNXKcX4x5WVw&usqp=CAU"
+    }
+]

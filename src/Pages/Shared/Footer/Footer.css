@@ -1,0 +1,24 @@
+.footer{
+    margin-top: 10px;
+    background-color:darkgray; 
+    padding: 20px;
+    margin-bottom: 10px; 
+}
+.footer-text{
+    color:black;
+    font-size: 1em;
+    font-weight: 400;
+}
+.social-media i{
+    color: white;
+    margin: 5px;
+    padding: 5px;
+
+}
+.social-media i:hover{
+    background-color: red;
+}
+.icon
+{
+color:gold
+}
